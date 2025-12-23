@@ -1,0 +1,8 @@
+{
+  "name": "Aposte no seu Potencial - Conhecimento é Valor",
+  "description": "Uma plataforma de competição acadêmica gamificada onde o conhecimento técnico gera recompensas financeiras reais, inspirada no MIT OpenCourseWare.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
